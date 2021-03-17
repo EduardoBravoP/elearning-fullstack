@@ -1,0 +1,6 @@
+[submodule "elearning-backend"]
+	path = elearning-backend
+	url = https://github.com/EduardoBravoP/elearning-backend.git
+[submodule "elearning-mobile"]
+	path = elearning-mobile
+	url = https://github.com/EduardoBravoP/elearning-mobile.git
